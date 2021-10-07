@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Aprende Sin Barreras</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="welcome_back">Bienvenido!</string>
+    <string name="login_to_continue">Iniciar Sesión para continuar</string>
+
+    <string name="username_cannot_empty">El nombre de usuario no puede estar vacío</string>
+    <string name="password_cannot_empty">La contraseña no puede estar vacío</string>
+    <string name="old_password_cannot_be_empty">La antigua contraseña no puede estar vacia</string>
+    <string name="new_password_cannot_be_empty">Nueva contraseña no puede estar vacía</string>
+    <string name="confirm_new_password_cannot_be_empty">La confirmación de la nueva contraseña no puede estar vacia</string>
+    <string name="password_must_be_same">La contraseña debe ser la misma</string>
+    <string name="new_password_must_be_different">La nueva contraseña debe ser diferente</string>
+    <string name="email_cannot_empty">El correo electrónico no puede estar vacío</string>
+    <string name="email_not_valid">El email debe ser válido</string>
+    <string name="don_t_have_an_account">¿No tienes una cuenta? </string>
+    <string name="sign_up">REGISTRARSE</string>
+    <string name="create_account">Crear Cuenta</string>
+    <string name="register">Registro</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="start_quiz">Iniciar Prueba</string>
+    <string name="rules">Reglas</string>
+    <string name="history">Historia</string>
+    <string name="menu">Menú</string>
+    <string name="quiz_option">Quiz Option</string>
+    <string name="edit_password">Editar Contraseña</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="new_password">Nueva contraseña</string>
+    <string name="confirm_new_password">Confirmar Nueva contraseña</string>
+    <string name="old_password">Contraseña vieja</string>
+    <string name="create">Crear</string>
+    <string name="save_password">Guardar Contraseña</string>
+    <string name="literature">Literatura</string>
+    <string name="geography">Geografía</string>
+    <string name="math">Matemática</string>
+    <string name="finish">Finalizar</string>
+    <string name="next">Siguiente</string>
+    <string name="enter_answer">Ingresar respuesta</string>
+    <string name="final_result">Resultado Final</string>
+    <string name="subject">Materia :</string>
+    <string name="correct">Correcto :</string>
+    <string name="incorrect">Incorrecto :</string>
+    <string name="earned">Ganado :</string>
+    <string name="total_questions">total de preguntas :</string>
+    <string name="overall_points">Puntos totales :</string>
+    <string name="math_quiz">Pruba de matemáticas</string>
+    <string name="literature_quiz">Prueba de Literatura</string>
+    <string name="geography_quiz">Prueba de Geografía</string>
+    <string name="date">Fecha :</string>
+    <string name="start_again">¡Empezar de nuevo!</string>
+
+
+    <string name="Historial">Historial</string>
+    <string name="reglas">Reglas de Quizz</string>
+    <string name="edit_pass">Editar contraseña</string>
+    <string name="fuera">Cerrar Sesión</string>
+    <string name="start">Inicar Prueba</string>
+    <string name="numeros">Numeros</string>
+    <string name="rule_desc">La prueba contendrá 5 preguntas aleatorias. Cada respuesta correcta le otorga 5 puntos . Cada respuesta incorrecta le quita 5 puntos. Sus resultados se guardarán y se acumularán en su historial</string>
+    <string name="ALSB">ALSB</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="desc_num">Representación del número en lenguaje de señas</string>
+    <string name="desc_num2">Representación de como se escribe el número</string>
+
+</resources>

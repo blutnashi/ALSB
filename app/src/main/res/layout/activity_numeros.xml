@@ -1,0 +1,118 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/liner"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/btn_cero"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0" />
+
+                    <Button
+                        android:id="@+id/btn_uno"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="1" />
+
+                    <Button
+                        android:id="@+id/btn_dos"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="2" />
+
+                    <Button
+                        android:id="@+id/btn_tres"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="3" />
+
+                    <Button
+                        android:id="@+id/btn_cuatro"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="4" />
+
+                    <Button
+                        android:id="@+id/btn_cinco"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="5" />
+
+                    <Button
+                        android:id="@+id/btn_seis"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="6" />
+
+                    <Button
+                        android:id="@+id/btn_siete"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="7" />
+
+                    <Button
+                        android:id="@+id/btn_ocho"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="8" />
+
+                    <Button
+                        android:id="@+id/btn_nueve"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="9" />
+
+                    <Button
+                        android:id="@+id/btn_diez"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="10" />
+
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <ImageView
+                android:id="@+id/PersonaNumeros"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/desc_num"
+                android:scaleType="fitCenter"
+                android:scrollbarSize="4dp" />
+
+            <ImageView
+                android:id="@+id/Numeros"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/desc_num2"
+                android:scaleType="fitCenter"
+                android:scrollbarSize="4dp"
+                tools:layout_editor_absoluteX="94dp"
+                tools:layout_editor_absoluteY="73dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
